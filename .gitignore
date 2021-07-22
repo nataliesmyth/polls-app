@@ -1,7 +1,5 @@
-polls/__pycache__
-polls/__init__.py
-manage.py
-polls/migrations
-mysite/__pycache__
-mysite/__init__.py
-mysite/settings.py
+.venv
+mysite/db.sqlite3
+mysite/mysite/__pycache__
+mysite/mysite/__init__.py
+mysite/manage.py
